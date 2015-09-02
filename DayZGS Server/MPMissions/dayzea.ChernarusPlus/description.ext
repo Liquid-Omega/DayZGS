@@ -7,7 +7,7 @@ OnLoadMissionTime = false;
 destroyDisconnected = false;
 
 // roleless missions
-scriptedPlayer = true;//???
+scriptedPlayer = true;			//???
 
 disableChannels[]={0,2,6};
 

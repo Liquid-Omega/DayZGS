@@ -57,7 +57,7 @@ simulSetHumidity _humidity;
 //0 setFog _humidity;
 0 setFog 1;
 
-//STANDART SPAWN
+//STANDARD SPAWN
 _position = [7500,7500,0];
 //exportProxies [_position,200000];
 importProxies;
