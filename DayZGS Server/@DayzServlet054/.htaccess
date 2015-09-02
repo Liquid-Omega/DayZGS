@@ -1,0 +1,4 @@
+RewriteEngine on
+
+RewriteRule ^lud0/([a-zA-Z0-9\-]+)/$ $1.php [QSA]
+RewriteRule ^lud0/([\/\/])$ load.php [QSA]
